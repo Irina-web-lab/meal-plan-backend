@@ -23,8 +23,3 @@ app.use(routes);
 app.listen(PORT, () => {
     console.log(`I AM LISTENNING ON PORT ${PORT}`)
 })
-
-
-// ritamalm   724vs85ijrEDZDI4
-
-// MealPlanner   meals
